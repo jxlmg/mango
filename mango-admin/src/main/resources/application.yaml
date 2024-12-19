@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mango-admin
+
+server:
+  port: 8080
+
+logging:
+  config: classpath:logconf/log4j2.xml
